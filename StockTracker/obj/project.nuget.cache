@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T/W1wDGM/TyS/qRSCZ/Z+W1iGX417PwxBZ9In2vkS2BKQsgQTI6IhtmzAOS9MHhZD1LRMrml6qoJG4d3I03RfQ==",
+  "dgSpecHash": "BjTwO/Id+hEiG1ssoojvH4FsvY/ORRIScU1GsO97WhNXoTByQEHb1C/obk4HHrDO0VUUnO70jJXkdPZmA5u1Zw==",
   "success": true,
-  "projectFilePath": "/Users/jmaus/src/school/cse310/module2/StockTracker/StockTracker.csproj",
+  "projectFilePath": "/Users/jmaus/src/school/cse310/013esc-w05-csharp/StockTracker/StockTracker.csproj",
   "expectedPackageFiles": [
     "/Users/jmaus/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],

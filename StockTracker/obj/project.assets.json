@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jmaus/src/school/cse310/module2/StockTracker/StockTracker.csproj",
+      "projectUniqueName": "/Users/jmaus/src/school/cse310/013esc-w05-csharp/StockTracker/StockTracker.csproj",
       "projectName": "StockTracker",
-      "projectPath": "/Users/jmaus/src/school/cse310/module2/StockTracker/StockTracker.csproj",
+      "projectPath": "/Users/jmaus/src/school/cse310/013esc-w05-csharp/StockTracker/StockTracker.csproj",
       "packagesPath": "/Users/jmaus/.nuget/packages/",
-      "outputPath": "/Users/jmaus/src/school/cse310/module2/StockTracker/obj/",
+      "outputPath": "/Users/jmaus/src/school/cse310/013esc-w05-csharp/StockTracker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jmaus/.nuget/NuGet/NuGet.Config"
